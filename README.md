@@ -1,3 +1,1 @@
-# tienda-online
-Diseño Tienda Online | HTML, CSS, JAVASCRIPT
-# todopythonrevise-profe-
+tienda online  ejemplo 
